@@ -1,5 +1,5 @@
 # rain-alert
-This is meant to be a simple wrapper around the Python forecast.io library. My main purpose was to set different led lights off based on the forecast. Will probably use RPi.GPIO for that. 
+This is meant to be a simple, declarative wrapper around the Python forecast.io library (https://github.com/ZeevG/python-forecast.io). My main purpose was to switch on/off different led lights off based on the forecast. I will probably use RPi.GPIO for that. 
 
 Anyways, if you somehow find yourself here and find this useful, you will want to do two things:
 
